@@ -1,0 +1,46 @@
+Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
+13-03-2020,Republic of Korea,7979,110,66,0,Local transmission,0
+13-03-2020,Japan,675,55,19,4,Local transmission,0
+13-03-2020,Singapore,187,9,0,0,Local transmission,0
+13-03-2020,Australia,140,18,3,0,Local transmission,0
+13-03-2020,Malaysia,129,0,0,0,Local transmission,2
+13-03-2020,Philippines,52,0,2,0,Local transmission,1
+13-03-2020,Viet Nam,39,0,0,0,Local transmission,1
+13-03-2020,Brunei Darussalam,12,0,0,0,Imported cases only,1
+13-03-2020,Cambodia,5,2,0,0,Local transmission,0
+13-03-2020,New Zealand,5,0,0,0,Local transmission,6
+13-03-2020,Mongolia,1,0,0,0,Imported cases only,3
+13-03-2020,French Polynesia,1,0,0,0,Imported cases only,1
+13-03-2020,Italy,15113,2651,1016,189,Local transmission,0
+13-03-2020,Spain,2965,825,84,36,Local transmission,0
+13-03-2020,France,2860,591,61,13,Local transmission,0
+13-03-2020,Germany,2369,802,6,3,Local transmission,0
+13-03-2020,Switzerland,858,213,6,2,Local transmission,0
+13-03-2020,Denmark,674,59,0,0,Local transmission,0
+13-03-2020,Sweden,620,159,0,0,Local transmission,0
+13-03-2020,Netherlands,614,111,5,0,Local transmission,0
+13-03-2020,The United Kingdom,594,134,8,2,Local transmission,0
+13-03-2020,Austria,361,59,1,1,Local transmission,0
+13-03-2020,Belgium,314,0,0,0,Local transmission,1
+13-03-2020,Norway,489,0,0,0,Local transmission,1
+13-03-2020,Czechia,116,22,0,0,Local transmission,0
+13-03-2020,Finland,109,69,0,0,Local transmission,0
+13-03-2020,Greece,98,0,1,0,Local transmission,1
+13-03-2020,Israel,75,0,0,0,Local transmission,2
+13-03-2020,Ireland,70,27,1,0,Local transmission,0
+13-03-2020,San Marino,63,0,2,0,Local transmission,2
+13-03-2020,Iceland,61,0,0,0,Local transmission,3
+13-03-2020,Slovenia,57,0,0,0,Local transmission,1
+13-03-2020,Poland,49,5,1,1,Local transmission,0
+13-03-2020,Romania,48,0,0,0,Local transmission,1
+13-03-2020,Portugal,41,0,0,0,Local transmission,2
+13-03-2020,Russian Federation,34,14,0,0,Imported cases only,0
+13-03-2020,Georgia,25,2,0,0,Imported cases only,0
+13-03-2020,Albania,23,13,0,0,Imported cases only,0
+13-03-2020,Slovakia,21,11,0,0,Local transmission,0
+13-03-2020,Serbia,19,0,0,0,Under investigation,1
+13-03-2020,Luxembourg,17,0,0,0,Imported cases only,1
+13-03-2020,Croatia,16,0,0,0,Local transmission,2
+13-03-2020,Hungary,16,3,0,0,Local transmission,0
+13-03-2020,Latvia,16,0,0,0,Imported cases only,1
+13-03-2020,Estonia,13,0,0,0,Imported cases only,2

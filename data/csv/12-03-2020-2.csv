@@ -1,0 +1,29 @@
+Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
+12-03-2020,Brazil,52.0,18.0,0.0,0.0,Local transmission,0.0
+12-03-2020,Chile,23.0,6.0,0.0,0.0,Local transmission,0.0
+12-03-2020,Argentina,19.0,2.0,1.0,0.0,Imported cases only,0.0
+12-03-2020,Ecuador,17.0,2.0,0.0,0.0,Local transmission,0.0
+12-03-2020,Peru,17.0,6.0,0.0,0.0,Local transmission,0.0
+12-03-2020,Costa Rica,13.0,0.0,0.0,0.0,Local transmission,1.0
+12-03-2020,Mexico,11.0,4.0,0.0,0.0,Imported cases only,0.0
+12-03-2020,Panama,10.0,2.0,1.0,0.0,Local transmission,0.0
+12-03-2020,Colombia,9.0,6.0,0.0,0.0,Imported cases only,0.0
+12-03-2020,Dominican Republic,5.0,0.0,0.0,0.0,Imported cases only,2.0
+12-03-2020,Paraguay,5.0,0.0,0.0,0.0,Local transmission,1.0
+12-03-2020,State of),2.0,0.0,0.0,0.0,Imported cases only,1.0
+12-03-2020,Honduras,2.0,2.0,0.0,0.0,Imported cases only,0.0
+12-03-2020,Jamaica,1.0,0.0,0.0,0.0,Imported cases only,1.0
+12-03-2020,French Guiana,5.0,0.0,0.0,0.0,Imported cases only,4.0
+12-03-2020,Martinique,3.0,0.0,0.0,0.0,Imported cases only,1.0
+12-03-2020,Saint Martin,2.0,0.0,0.0,0.0,Under investigation,9.0
+12-03-2020,Saint Barthelemy,1.0,0.0,0.0,0.0,Under investigation,9.0
+12-03-2020,Algeria,25.0,5.0,1.0,1.0,Local transmission,0.0
+12-03-2020,South Africa,13.0,6.0,0.0,0.0,Imported cases only,0.0
+12-03-2020,Senegal,4.0,0.0,0.0,0.0,Imported cases only,7.0
+12-03-2020,Burkina Faso,2.0,0.0,0.0,0.0,Imported cases only,1.0
+12-03-2020,Cameroon,2.0,0.0,0.0,0.0,Local transmission,5.0
+12-03-2020,Nigeria,2.0,0.0,0.0,0.0,Imported cases only,3.0
+12-03-2020,Côte d’Ivoire,1.0,1.0,0.0,0.0,Imported cases only,0.0
+12-03-2020,of the Congo,1.0,0.0,0.0,0.0,Imported cases only,1.0
+12-03-2020,Togo,1.0,0.0,0.0,0.0,Imported cases only,5.0
+12-03-2020,conveyance,696.0,0.0,7.0,0.0,Local transmission,4.0
