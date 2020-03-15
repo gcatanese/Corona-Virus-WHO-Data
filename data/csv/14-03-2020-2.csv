@@ -1,0 +1,43 @@
+Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
+14-03-2020,Brazil,98.0,21.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Chile,43.0,10.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Argentina,34.0,3.0,2.0,1.0,Local transmission,0.0
+14-03-2020,Peru,28.0,6.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Panama,27.0,13.0,1.0,0.0,Local transmission,0.0
+14-03-2020,Mexico,26.0,14.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Costa Rica,23.0,1.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Ecuador,23.0,6.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Colombia,16.0,7.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Jamaica,7.0,6.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Guyana,6.0,5.0,1.0,0.0,Imported cases only,0.0
+14-03-2020,Paraguay,6.0,1.0,0.0,0.0,Local transmission,0.0
+14-03-2020,Dominican Republic,5.0,0.0,0.0,0.0,Imported cases only,4.0
+14-03-2020,Cuba,4.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,State of),3.0,0.0,0.0,0.0,Imported cases only,1.0
+14-03-2020,Puerto Rico,3.0,3.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Honduras,2.0,0.0,0.0,0.0,Imported cases only,2.0
+14-03-2020,Republic of),2.0,2.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Antigua and Barbuda,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Guadeloupe,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Grenadines,1.0,0.0,0.0,0.0,Imported cases only,1.0
+14-03-2020,Trinidad and Tobago,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,French Guiana,6.0,0.0,0.0,0.0,Imported cases only,1.0
+14-03-2020,Martinique,6.0,2.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Saint Martin,2.0,0.0,0.0,0.0,Under investigation,11.0
+14-03-2020,Saint Barthelemy,1.0,0.0,0.0,0.0,Under investigation,11.0
+14-03-2020,Cayman Islands,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Algeria,26.0,1.0,2.0,1.0,Local transmission,0.0
+14-03-2020,South Africa,17.0,0.0,0.0,0.0,Local transmission,1.0
+14-03-2020,Senegal,10.0,0.0,0.0,0.0,Local transmission,1.0
+14-03-2020,Burkina Faso,2.0,0.0,0.0,0.0,Imported cases only,3.0
+14-03-2020,Cameroon,2.0,0.0,0.0,0.0,Local transmission,7.0
+14-03-2020,of the Congo,2.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Nigeria,2.0,0.0,0.0,0.0,Imported cases only,5.0
+14-03-2020,Cote d’Ivoire,1.0,0.0,0.0,0.0,Imported cases only,2.0
+14-03-2020,Ethiopia,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Gabon,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Ghana,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Guinea,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Kenya,1.0,1.0,0.0,0.0,Imported cases only,0.0
+14-03-2020,Togo,1.0,0.0,0.0,0.0,Imported cases only,7.0
+14-03-2020,Réunion,5.0,2.0,0.0,0.0,Imported cases only,0.0

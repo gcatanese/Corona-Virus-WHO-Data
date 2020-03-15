@@ -1,0 +1,43 @@
+Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
+10-03-2020,Albania,2,0.0,0.0,0.0,Imported cases only,1.0
+10-03-2020,Bosnia andHerzegovina,2,0.0,0.0,0.0,Local transmission,5.0
+10-03-2020,Cyprus,2,2.0,0.0,0.0,Imported cases only,0.0
+10-03-2020,Andorra,1,0.0,0.0,0.0,Imported cases only,7.0
+10-03-2020,Armenia,1,0.0,0.0,0.0,Imported cases only,8.0
+10-03-2020,Holy See,1,0.0,0.0,0.0,Under investigation,4.0
+10-03-2020,Liechtenstein,1,0.0,0.0,0.0,Imported cases only,4.0
+10-03-2020,Lithuania,1,0.0,0.0,0.0,Imported cases only,11.0
+10-03-2020,Monaco,1,0.0,0.0,0.0,Under investigation,9.0
+10-03-2020,Republic of Moldova,1,0.0,0.0,0.0,Imported cases only,2.0
+10-03-2020,Serbia,1,0.0,0.0,0.0,Under investigation,4.0
+10-03-2020,Ukraine,1,0.0,0.0,0.0,Imported cases only,6.0
+10-03-2020,Faroe Islands,2,0.0,0.0,0.0,Imported cases only,1.0
+10-03-2020,Gibraltar,1,0.0,0.0,0.0,Under investigation,6.0
+10-03-2020,Guernsey,1,1.0,0.0,0.0,Imported cases only,0.0
+10-03-2020,Thailand,53,3.0,1.0,0.0,Local transmission,0.0
+10-03-2020,India,44,1.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Indonesia,19,13.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Maldives,4,0.0,0.0,0.0,Local transmission,1.0
+10-03-2020,Bangladesh,3,0.0,0.0,0.0,Local transmission,1.0
+10-03-2020,Bhutan,1,0.0,0.0,0.0,Imported cases only,4.0
+10-03-2020,Nepal,1,0.0,0.0,0.0,Imported cases only,46.0
+10-03-2020,Sri Lanka,1,0.0,0.0,0.0,Imported cases only,43.0
+10-03-2020,Iran (IslamicRepublic of),7161,595.0,237.0,43.0,Local transmission,0.0
+10-03-2020,Bahrain,109,30.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Kuwait,65,1.0,0.0,0.0,Imported cases only,0.0
+10-03-2020,Iraq,61,1.0,6.0,0.0,Local transmission,0.0
+10-03-2020,Egypt,59,4.0,1.0,0.0,Local transmission,0.0
+10-03-2020,United ArabEmirates,59,14.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Lebanon,41,9.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Oman,18,2.0,0.0,0.0,Imported cases only,0.0
+10-03-2020,Qatar,18,3.0,0.0,0.0,Imported cases only,0.0
+10-03-2020,Pakistan,16,10.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Saudi Arabia,15,0.0,0.0,0.0,Imported cases only,1.0
+10-03-2020,Afghanistan,4,0.0,0.0,0.0,Imported cases only,2.0
+10-03-2020,Morocco,2,0.0,0.0,0.0,Imported cases only,5.0
+10-03-2020,Tunisia,2,0.0,0.0,0.0,Imported cases only,1.0
+10-03-2020,Jordan,1,0.0,0.0,0.0,Imported cases only,7.0
+10-03-2020,occupied Palestinianterritory,26,7.0,0.0,0.0,Local transmission,0.0
+10-03-2020,United States ofAmerica,472,259.0,19.0,8.0,Local transmission,0.0
+10-03-2020,Canada,77,15.0,0.0,0.0,Local transmission,0.0
+10-03-2020,Brazil,25,0.0,0.0,0.0,Local transmission,1.0

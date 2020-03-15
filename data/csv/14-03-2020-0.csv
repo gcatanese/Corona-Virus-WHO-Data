@@ -1,0 +1,47 @@
+Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
+14-03-2020,Republic of Korea,8086,107,72,6,Local transmission,0
+14-03-2020,Japan,716,41,21,2,Local transmission,0
+14-03-2020,Singapore,200,13,0,0,Local transmission,0
+14-03-2020,Australia,197,57,3,0,Local transmission,0
+14-03-2020,Malaysia,197,68,0,0,Local transmission,0
+14-03-2020,Philippines,64,12,2,0,Local transmission,0
+14-03-2020,Viet Nam,48,9,0,0,Local transmission,0
+14-03-2020,Brunei Darussalam,25,13,0,0,Local transmission,0
+14-03-2020,Cambodia,7,2,0,0,Local transmission,0
+14-03-2020,New Zealand,6,1,0,0,Local transmission,0
+14-03-2020,Mongolia,1,0,0,0,Imported cases only,4
+14-03-2020,French Polynesia,1,0,0,0,Imported cases only,2
+14-03-2020,Italy,17660,2547,1268,252,Local transmission,0
+14-03-2020,Spain,4231,1266,120,36,Local transmission,0
+14-03-2020,France,3640,780,79,18,Local transmission,0
+14-03-2020,Germany,3062,693,6,0,Local transmission,0
+14-03-2020,Switzerland,1125,267,6,0,Local transmission,0
+14-03-2020,Netherlands,804,190,10,5,Local transmission,0
+14-03-2020,The United Kingdom,802,208,10,2,Local transmission,0
+14-03-2020,Denmark,801,127,0,0,Local transmission,0
+14-03-2020,Sweden,775,155,0,0,Local transmission,0
+14-03-2020,Norway,750,261,1,1,Local transmission,0
+14-03-2020,Belgium,599,285,0,0,Local transmission,0
+14-03-2020,Austria,504,143,1,0,Local transmission,0
+14-03-2020,Czechia,150,34,0,0,Local transmission,0
+14-03-2020,Slovenia,141,84,0,0,Local transmission,0
+14-03-2020,Portugal,112,71,0,0,Local transmission,0
+14-03-2020,Finland,109,0,0,0,Local transmission,1
+14-03-2020,Israel,100,25,0,0,Local transmission,0
+14-03-2020,Greece,98,0,1,0,Local transmission,2
+14-03-2020,Ireland,90,20,1,0,Local transmission,0
+14-03-2020,Estonia,79,66,0,0,Local transmission,0
+14-03-2020,San Marino,66,3,2,0,Local transmission,0
+14-03-2020,Romania,64,16,0,0,Local transmission,0
+14-03-2020,Poland,64,15,1,0,Local transmission,0
+14-03-2020,Iceland,61,0,0,0,Local transmission,4
+14-03-2020,Luxembourg,38,21,1,1,Local transmission,0
+14-03-2020,Russian Federation,34,0,0,0,Imported cases only,1
+14-03-2020,Albania,33,10,1,1,Local transmission,0
+14-03-2020,Serbia,31,12,0,0,Local transmission,0
+14-03-2020,Slovakia,30,9,0,0,Local transmission,0
+14-03-2020,Croatia,27,11,0,0,Local transmission,0
+14-03-2020,Georgia,25,0,0,0,Imported cases only,1
+14-03-2020,Belarus,21,9,0,0,Local transmission,0
+14-03-2020,Hungary,19,3,0,0,Local transmission,0
+14-03-2020,Latvia,16,0,0,0,Imported cases only,2
