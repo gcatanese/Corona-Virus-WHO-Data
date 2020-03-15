@@ -1,15 +1,15 @@
 import tabula
 import os
 
-folder = '/Users/pedwards/Beppe/github/gcatanese/pdfreader/'
-file = folder + '12-03-2020.pdf'
+folder = '/Users/pedwards/Beppe/github/gcatanese/Corona-Virus-WHO-Data/data/'
 
 
-def main():
+def extract():
+    print(f"extract {folder}")
     for filename in os.listdir(folder):
         if filename.endswith(".pdf"):
 
-            process_file(filename)
+            process_file(folder + filename)
 
             continue
         else:
@@ -18,7 +18,7 @@ def main():
 
 def process_file(filename):
     print(f'process_file: {filename}')
-    df = tabula.read_pdf(file, pages='all')
+    df = tabula.read_pdf(filename, pages='all')
 
     # df = df['Country']=='Italy'
 
@@ -41,5 +41,6 @@ def process_file(filename):
 
 # df.to_csv (folder + 'report.csv', index = False, header=True)
 
-def filename_without_extension(filename):
+def filename_without_extension(path):
+    filename = os.path.basename(path)
     return os.path.splitext(filename)[0]
