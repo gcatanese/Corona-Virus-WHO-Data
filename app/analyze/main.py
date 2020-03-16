@@ -1,20 +1,28 @@
 import pandas as pd
 import os
 
-folder = '/Users/pedwards/Beppe/github/gcatanese/Corona-Virus-WHO-Data/data/csv/'
-
-file = folder + '13-03-2020-0.csv'
-
 
 def process():
-    df = pd.read_csv(file)
+    df = pd.read_csv('../../data/csv/13-03-2020-0.csv')
 
     df = df[df['Country'] == 'Italy']
     print(df.values)
 
 
+def process_global_file():
+    df = pd.read_csv('../../data/csv/total_cases.csv')
+
+    df = df[['date', 'Italy']]
+
+    it_data = df
+    it_data_by_day = it_data.pivot_table(index=['date'], values=['Italy'])
+    print(it_data_by_day)
+
+
 def process_multiple_files():
     li = []
+
+    folder = '../../data/csv/'
 
     for filename in os.listdir(folder):
         if filename.endswith(".csv"):
@@ -30,12 +38,4 @@ def process_multiple_files():
     print(df.values)
 
 
-
-
-
-    it_data = df
-    it_data_by_day = it_data.pivot_table(index=['Date'], values=['Total confirmed cases'])
-    it_data_by_day.head()
-
-
-process_multiple_files()
+process_global_file()
