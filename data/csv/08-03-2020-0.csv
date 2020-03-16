@@ -1,44 +1,0 @@
-Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
-08-03-2020,Armenia,1,0.0,0.0,0.0,Imported cases only,6.0
-08-03-2020,Holy See,1,0.0,0.0,0.0,Under investigation,2.0
-08-03-2020,Latvia,1,0.0,0.0,0.0,Imported cases only,5.0
-08-03-2020,Liechtenstein,1,0.0,0.0,0.0,Imported cases only,2.0
-08-03-2020,Lithuania,1,0.0,0.0,0.0,Imported cases only,9.0
-08-03-2020,Monaco,1,0.0,0.0,0.0,Under investigation,7.0
-08-03-2020,Republic of Moldova,1,1.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Serbia,1,0.0,0.0,0.0,Under investigation,2.0
-08-03-2020,Ukraine,1,0.0,0.0,0.0,Imported cases only,4.0
-08-03-2020,Faroe Islands,1,0.0,0.0,0.0,Imported cases only,2.0
-08-03-2020,Gibraltar,1,0.0,0.0,0.0,Under investigation,4.0
-08-03-2020,Thailand,50,2.0,1.0,0.0,Local transmission,0.0
-08-03-2020,India,34,3.0,0.0,0.0,Local transmission,0.0
-08-03-2020,Indonesia,4,0.0,0.0,0.0,Local transmission,1.0
-08-03-2020,Maldives,2,2.0,0.0,0.0,Local transmission,0.0
-08-03-2020,Bhutan,1,0.0,0.0,0.0,Imported cases only,2.0
-08-03-2020,Nepal,1,0.0,0.0,0.0,Imported cases only,44.0
-08-03-2020,Sri Lanka,1,0.0,0.0,0.0,Imported cases only,41.0
-08-03-2020,Iran (IslamicRepublic of),5823,1076.0,145.0,21.0,Local transmission,0.0
-08-03-2020,Kuwait,62,4.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Bahrain,56,7.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Iraq,54,10.0,4.0,0.0,Imported cases only,0.0
-08-03-2020,Egypt,48,45.0,0.0,0.0,Local transmission††,0.0
-08-03-2020,United ArabEmirates,45,0.0,0.0,0.0,Local transmission,1.0
-08-03-2020,Lebanon,28,6.0,0.0,0.0,Local transmission,0.0
-08-03-2020,Oman,16,0.0,0.0,0.0,Imported cases only,2.0
-08-03-2020,Qatar,12,1.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Saudi Arabia,7,2.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Pakistan,5,0.0,0.0,0.0,Imported cases only,5.0
-08-03-2020,Afghanistan,4,3.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Morocco,2,0.0,0.0,0.0,Imported cases only,3.0
-08-03-2020,Jordan,1,0.0,0.0,0.0,Imported cases only,5.0
-08-03-2020,Tunisia,1,0.0,0.0,0.0,Imported cases only,5.0
-08-03-2020,OccupiedPalestinian Territory,16,0.0,0.0,0.0,Local transmission,1.0
-08-03-2020,United States ofAmerica,213,0.0,11.0,0.0,Local transmission,1.0
-08-03-2020,Canada,57,6.0,0.0,0.0,Local transmission,0.0
-08-03-2020,Brazil,19,6.0,0.0,0.0,Local transmission,0.0
-08-03-2020,Ecuador,14,0.0,0.0,0.0,Local transmission,1.0
-08-03-2020,Argentina,9,7.0,1.0,1.0,Imported cases only,0.0
-08-03-2020,Mexico,7,2.0,0.0,0.0,Imported cases only,0.0
-08-03-2020,Peru,6,0.0,0.0,0.0,Local transmission,1.0
-08-03-2020,Chile,5,0.0,0.0,0.0,Imported cases only,1.0
-08-03-2020,Costa Rica,5,5.0,0.0,0.0,Imported cases only,0.0

@@ -1,44 +1,0 @@
-Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
-09-03-2020,Luxembourg,2,0.0,0.0,0.0,Imported cases only,2.0
-09-03-2020,Andorra,1,0.0,0.0,0.0,Imported cases only,6.0
-09-03-2020,Armenia,1,0.0,0.0,0.0,Imported cases only,7.0
-09-03-2020,Holy See,1,0.0,0.0,0.0,Under investigation,3.0
-09-03-2020,Liechtenstein,1,0.0,0.0,0.0,Imported cases only,3.0
-09-03-2020,Lithuania,1,0.0,0.0,0.0,Imported cases only,10.0
-09-03-2020,Monaco,1,0.0,0.0,0.0,Under investigation,8.0
-09-03-2020,Republic of Moldova,1,0.0,0.0,0.0,Imported cases only,1.0
-09-03-2020,Serbia,1,0.0,0.0,0.0,Under investigation,3.0
-09-03-2020,Ukraine,1,0.0,0.0,0.0,Imported cases only,5.0
-09-03-2020,Faroe Islands,2,1.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Gibraltar,1,0.0,0.0,0.0,Under investigation,5.0
-09-03-2020,Thailand,50,0.0,1.0,0.0,Local transmission,1.0
-09-03-2020,India,43,9.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Indonesia,6,2.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Maldives,4,2.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Bangladesh,3,3.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Bhutan,1,0.0,0.0,0.0,Imported cases only,3.0
-09-03-2020,Nepal,1,0.0,0.0,0.0,Imported cases only,45.0
-09-03-2020,Sri Lanka,1,0.0,0.0,0.0,Imported cases only,42.0
-09-03-2020,Iran (IslamicRepublic of),6566,743.0,194.0,49.0,Local transmission,0.0
-09-03-2020,Bahrain,79,23.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Kuwait,64,2.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Iraq,60,6.0,6.0,2.0,Local transmission,0.0
-09-03-2020,Egypt,55,7.0,1.0,1.0,Local transmission,0.0
-09-03-2020,United ArabEmirates,45,0.0,0.0,0.0,Local transmission,2.0
-09-03-2020,Lebanon,32,4.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Oman,16,0.0,0.0,0.0,Imported cases only,3.0
-09-03-2020,Qatar,15,3.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Saudi Arabia,15,8.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Pakistan,6,1.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Afghanistan,4,0.0,0.0,0.0,Imported cases only,1.0
-09-03-2020,Morocco,2,0.0,0.0,0.0,Imported cases only,4.0
-09-03-2020,Tunisia,2,1.0,0.0,0.0,Imported cases only,0.0
-09-03-2020,Jordan,1,0.0,0.0,0.0,Imported cases only,6.0
-09-03-2020,occupied Palestinianterritory,19,3.0,0.0,0.0,Local transmission,0.0
-09-03-2020,United States ofAmerica,213,0.0,11.0,0.0,Local transmission,2.0
-09-03-2020,Canada,62,5.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Brazil,25,6.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Ecuador,15,1.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Argentina,12,3.0,1.0,0.0,Imported cases only,0.0
-09-03-2020,Chile,10,5.0,0.0,0.0,Local transmission,0.0
-09-03-2020,Costa Rica,9,4.0,0.0,0.0,Local transmission,0.0

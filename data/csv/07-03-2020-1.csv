@@ -1,7 +1,0 @@
-Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
-07-03-2020,Senegal,4.0,0.0,0.0,0.0,Imported cases only,2.0
-07-03-2020,Cameroon,2.0,1.0,0.0,0.0,Local transmission,0.0
-07-03-2020,Nigeria,1.0,0.0,0.0,0.0,Imported cases only,8.0
-07-03-2020,South Africa,1.0,0.0,0.0,0.0,Imported cases only,1.0
-07-03-2020,Togo,1.0,1.0,0.0,0.0,Imported cases only,0.0
-07-03-2020,conveyance,696.0,0.0,6.0,0.0,Clusters of cases,1.0

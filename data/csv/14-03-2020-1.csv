@@ -1,45 +1,0 @@
-Date,Country,Total confirmed cases,Total confirmed new cases,Total deaths,Total new deaths,Transmission classification,Days since last reported case
-14-03-2020,Malta,12,3.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Azerbaijan,11,0.0,0.0,0.0,Imported cases only,1.0
-14-03-2020,Bosnia andHerzegovina,11,7.0,0.0,0.0,Local transmission,0.0
-14-03-2020,North Macedonia,9,2.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Armenia,8,7.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Republic of Moldova,8,4.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Bulgaria,7,0.0,1.0,0.0,Local transmission,2.0
-14-03-2020,Lithuania,6,3.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Turkey,5,4.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Liechtenstein,4,0.0,0.0,0.0,Imported cases only,1.0
-14-03-2020,Ukraine,3,0.0,1.0,1.0,Local transmission,0.0
-14-03-2020,Andorra,2,1.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Monaco,2,1.0,0.0,0.0,Under investigation,0.0
-14-03-2020,Holy See,1,0.0,0.0,0.0,Under investigation,8.0
-14-03-2020,Faroe Islands,3,1.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Gibraltar,1,0.0,0.0,0.0,Under investigation,10.0
-14-03-2020,Guernsey,1,0.0,0.0,0.0,Imported cases only,4.0
-14-03-2020,Jersey,2,0.0,0.0,0.0,Imported cases only,1.0
-14-03-2020,India,82,8.0,2.0,1.0,Local transmission,0.0
-14-03-2020,Thailand,75,0.0,1.0,0.0,Local transmission,1.0
-14-03-2020,Indonesia,69,35.0,3.0,2.0,Local transmission,0.0
-14-03-2020,Maldives,9,1.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Sri Lanka,6,3.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Bangladesh,3,0.0,0.0,0.0,Local transmission,5.0
-14-03-2020,Bhutan,1,0.0,0.0,0.0,Imported cases only,8.0
-14-03-2020,Nepal,1,0.0,0.0,0.0,Imported cases only,50.0
-14-03-2020,Iran (Islamic Republicof),11364,1289.0,514.0,85.0,Local transmission,0.0
-14-03-2020,Qatar,262,0.0,0.0,0.0,Local transmission,2.0
-14-03-2020,Bahrain,210,15.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Kuwait,100,20.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Egypt,93,26.0,2.0,1.0,Local transmission,0.0
-14-03-2020,Iraq,93,23.0,9.0,2.0,Local transmission,0.0
-14-03-2020,United Arab Emirates,85,0.0,0.0,0.0,Local transmission,1.0
-14-03-2020,Lebanon,77,11.0,4.0,1.0,Local transmission,0.0
-14-03-2020,Saudi Arabia,62,41.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Pakistan,21,1.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Oman,19,1.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,Tunisia,16,9.0,0.0,0.0,Local transmission,0.0
-14-03-2020,Afghanistan,7,0.0,0.0,0.0,Imported cases only,2.0
-14-03-2020,Morocco,7,1.0,1.0,0.0,Local transmission,0.0
-14-03-2020,Jordan,1,0.0,0.0,0.0,Imported cases only,11.0
-14-03-2020,Sudan,1,1.0,0.0,0.0,Imported cases only,0.0
-14-03-2020,occupied Palestinianterritory,35,4.0,0.0,0.0,Local transmission,0.0
-14-03-2020,United States ofAmerica,1678,414.0,41.0,5.0,Local transmission,0.0
