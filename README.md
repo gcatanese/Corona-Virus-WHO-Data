@@ -1,6 +1,6 @@
 # Corona-Virus-WHO-Data
 
-Jupyter Notebooks and data to plot COVID-19 facts
+Jupyter Notebooks, Python code and data to plot COVID-19 facts
 
 ## Sources
 
